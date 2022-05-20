@@ -11,12 +11,17 @@
 * nslookup
 * dig
 * dnsrecon
+* traceroute
 * sublist3r
 * SHODAN
 * Maltego
 * recon-ng
 
 ## Module 03 - Scanning Networks
+
+* hping3
+* nmap
+* scapy
 
 ## Module 04 - Enumeration
 
