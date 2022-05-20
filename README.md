@@ -98,7 +98,7 @@ Curated list of CEHv11 labs.
 
 ## Module 19 - Cloud Computing
 
-* [TryHackMe | Advent of Cyber 3 | Day 17](https://tryhackme.com/room/adventofcyber3)
+* No labs
 
 ## Module 20 - Cryptography
 
