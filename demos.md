@@ -7,7 +7,14 @@
 ## Module 02 - Footprinting and Reconnaissance
 
 * [GHDB](https://www.exploit-db.com/google-hacking-database)
-* 
+* whois
+* nslookup
+* dig
+* dnsrecon
+* sublist3r
+* SHODAN
+* Maltego
+* recon-ng
 
 ## Module 03 - Scanning Networks
 
