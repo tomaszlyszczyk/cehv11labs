@@ -1,11 +1,31 @@
 # CEHv11 Labs 
 
-Curated list of CEHv11 labs (realistically doable during a 5-day training).
+Curated list of CEHv11 labs.
+
+## Module 01 - Introduction to Ethical Hacking
+
+* No labs
+
+## Module 02 - Footprinting and Reconnaissance
+
+* 6.1 Perform Whois Lookup using DomainTools
+* 7.2 Perform Reverse DNS Lookup using Reverse IP Domain Check and DNSRecon
+* 9.1 Footprinting a Target using Recon-ng
+
+## Module 03 - Scanning Networks
+
+* 1.1 Perform Host Discovery using Nmap
+* 2.4 Explore Various Network Scanning Techniques using Hping3
+
+## Module 04 - Enumeration
+
+* 6.2 Perform RPC, SMB, and FTP Enumeration using Nmap
+* 7.3 Enumerate Information from Windows and Samba Hosts using Enum4linux
 
 ## Module 05 - Vulnerability Analysis
 
 * 1.2 Perform Vulnerability Research in Common Vulnerabilities and Exposures (CVE) - 3850
-* 2.2 Perform Vulnerability Scanning using Nessus - 3871
+* 2.2 Perform Vulnerability Scanning using Nessus - 3871 (TAKES A LOT OF TIME, DO AFTER CLASS)
 * 2.4 Perform Web Servers and Applications Vulnerability Scanning using CGI Scanner Nikto - 3918
 
 ## Module 06 - System Hacking
