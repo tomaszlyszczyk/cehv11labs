@@ -1,8 +1,8 @@
-# CEHv11 Demos
+# CEHv11 Tools
 
 ## Module 01 - Introduction to Ethical Hacking
 
-* No demos
+* No tools
 
 ## Module 02 - Footprinting and Reconnaissance
 
