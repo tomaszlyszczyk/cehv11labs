@@ -14,8 +14,8 @@ Curated list of CEHv11 labs.
 
 ## Module 03 - Scanning Networks
 
-* 1.1 Perform Host Discovery using Nmap
-* 2.4 Explore Various Network Scanning Techniques using Hping3
+* 1.1 Perform Host Discovery using Nmap - 3615
+* 2.4 Explore Various Network Scanning Techniques using Hping3 - 3653
 
 ## Module 04 - Enumeration
 
