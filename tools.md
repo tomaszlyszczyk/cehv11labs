@@ -25,9 +25,24 @@
 
 ## Module 04 - Enumeration
 
+* nmap
+* nbtstat
+* smbmap
+* smbclient
+* smbget
+* enum4linux
+* ntp*
+* rpc-scan.py
+* DNS Zone Transfer (nslookup, dig, dnsrecon)
+* DNS Cache Snooping ([nmap script](https://nmap.org/nsedoc/scripts/dns-cache-snoop.html))
+* ike-scan
 
 ## Module 05 - Vulnerability Analysis
 
+* Nessus
+* OpenVAS
+* Acunetix
+* Qualys
 
 ## Module 06 - System Hacking
 
