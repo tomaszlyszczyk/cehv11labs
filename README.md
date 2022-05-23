@@ -10,7 +10,7 @@ Curated list of CEHv11 labs.
 
 * 6.1 Perform Whois Lookup using DomainTools
 * 7.2 Perform Reverse DNS Lookup using Reverse IP Domain Check and DNSRecon
-* 9.1 Footprinting a Target using Recon-ng
+* 9.1 Footprinting a Target using Recon-ng - 3539 (up to step 44 only)
 
 ## Module 03 - Scanning Networks
 
