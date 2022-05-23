@@ -46,6 +46,18 @@
 
 ## Module 06 - System Hacking
 
+* AD Attacks
+  *  AS-REP Roasting
+  *  Kerberoasting
+  *  Silver Ticket
+  *  Golden Ticket
+  *  Pass the ticket
+  *  Pass the hash
+* Kerbrute
+* Rubeus
+* Impacket
+* mimikatz
+
 
 ## Module 07 - Malware Threats
 
