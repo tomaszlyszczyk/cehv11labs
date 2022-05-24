@@ -50,7 +50,7 @@ Curated list of CEHv11 labs.
 
 ## Module 09 - Social Engineering
 
-* 1.1 Sniff Users’ Credentials using the Social-Engineer Toolkit (SET) - 4461
+* 1.1 Sniff Users’ Credentials using the Social-Engineer Toolkit (SET) - 4461 **(skip creating phising email, visit fake site directly)**
 * 0.0 Give the trainer your card number, expiration date and CVV code
 
 ## Module 10 - Denial-of-Service
