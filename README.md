@@ -19,14 +19,14 @@ Curated list of CEHv11 labs.
 
 ## Module 04 - Enumeration
 
-* 5.1 Perform DNS Enumeration using Zone Transfer - 3790
+* 5.1 Perform DNS Enumeration using Zone Transfer - 3790 **(repeat for zonetransfer.me)**
 * 6.2 Perform RPC, SMB, and FTP Enumeration using Nmap - 3805
 * 7.3 Enumerate Information from Windows and Samba Hosts using Enum4linux - 3830
 
 ## Module 05 - Vulnerability Analysis
 
 * 1.2 Perform Vulnerability Research in Common Vulnerabilities and Exposures (CVE) - 3850
-* 2.2 Perform Vulnerability Scanning using Nessus - 3871 (TAKES A LOT OF TIME, DO AFTER CLASS)
+* 2.2 Perform Vulnerability Scanning using Nessus - 3871 **(TAKES A LOT OF TIME, DO AFTER CLASS)**
 * 2.4 Perform Web Servers and Applications Vulnerability Scanning using CGI Scanner Nikto - 3918
 
 ## Module 06 - System Hacking
