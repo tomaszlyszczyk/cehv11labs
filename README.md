@@ -46,7 +46,7 @@ Curated list of CEHv11 labs.
 ## Module 08 - Sniffing
 
 * 1.4 Perform an Man-in-the-Middle (MITM) Attack using Cain & Abel - 4329
-* 2.1 Perform Password Sniffing using Wireshark - 4355
+* 2.1 Perform Password Sniffing using Wireshark - 4355 (install Wireshark from Tools - Module 3 Banner Grabbing)
 
 ## Module 09 - Social Engineering
 
