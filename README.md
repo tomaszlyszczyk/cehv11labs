@@ -19,8 +19,9 @@ Curated list of CEHv11 labs.
 
 ## Module 04 - Enumeration
 
-* 6.2 Perform RPC, SMB, and FTP Enumeration using Nmap
-* 7.3 Enumerate Information from Windows and Samba Hosts using Enum4linux
+* 5.1 Perform DNS Enumeration using Zone Transfer - 3790
+* 6.2 Perform RPC, SMB, and FTP Enumeration using Nmap - 3805
+* 7.3 Enumerate Information from Windows and Samba Hosts using Enum4linux - 3830
 
 ## Module 05 - Vulnerability Analysis
 
