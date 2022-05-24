@@ -64,9 +64,18 @@
 
 ## Module 08 - Sniffing
 
+* Wireshark
+* tcpdump
+* arpspoof
+* ettercap
+* bettercap
+* dsniff
+* Cain & Abel
 
 ## Module 09 - Social Engineering
 
+* Social Engineering Toolkit (SET)
+* 
 
 ## Module 10 - Denial-of-Service
 
