@@ -57,6 +57,17 @@
 * Rubeus
 * Impacket
 * mimikatz
+* hashcat
+* john
+* Linux Enumeration:
+  * LinPeas
+  * LinEnum
+  * [Linux Exploit Suggester 2](https://github.com/jondonas/linux-exploit-suggester-2)
+* Linux PrivEsc:
+  * read /etc/passwd and /etc/shadow -> unshadow -> hashcat
+  * sudo -> [GTFOBins](https://gtfobins.github.io/)
+  * SUID/SGID (`find / -uid 0 -perm -4000 -type f 2>/dev/null`)
+  * kernel exploits
 
 
 ## Module 07 - Malware Threats
