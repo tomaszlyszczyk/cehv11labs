@@ -68,7 +68,18 @@
   * sudo -> [GTFOBins](https://gtfobins.github.io/)
   * SUID/SGID (`find / -uid 0 -perm -4000 -type f 2>/dev/null`)
   * kernel exploits
-
+* Windows Enumeration:
+  * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+  * WinPEAS
+  * PowerShell Empire
+  * Bloodhound
+* Windows PrivEsc:
+  * Insecure Service Permissions
+  * Unquoted Service Path
+  * Weak Registry Permissions
+  * Insecure Service Executables
+  * AutoRuns
+  * AlwaysInstallElevated
 
 ## Module 07 - Malware Threats
 
