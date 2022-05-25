@@ -114,6 +114,7 @@
 
 ## Module 14 - Hacking Web Applications
 
+* https://github.com/vavkamil/awesome-vulnerable-apps
 * https://xss.challenge.training.hacq.me/
 * https://xss-quiz.int21h.jp/
 * 
