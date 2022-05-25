@@ -114,7 +114,9 @@
 
 ## Module 14 - Hacking Web Applications
 
-
+* https://xss.challenge.training.hacq.me/
+* https://xss-quiz.int21h.jp/
+* 
 
 ## Module 15 - SQL Injection
 
