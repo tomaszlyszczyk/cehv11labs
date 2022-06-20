@@ -2,6 +2,10 @@
 
 Curated list of CEHv11 labs.
 
+## Credentials
+* Windows 10 - Admin/Pa$$w0rd
+* Parrot OS - attacker/toor
+
 ## Module 01 - Introduction to Ethical Hacking
 
 * No labs
