@@ -35,7 +35,7 @@ Curated list of CEHv11 labs.
 
 ## Module 06 - System Hacking
 
-* 1.5 Gain Access to a Remote System using Armitage - 3967
+* 1.5 Gain Access to a Remote System using Armitage - 3967 (create 'share' folder manually before step 19)
 * 2.2 Hack a Windows Machine using Metasploit and Perform Post-Exploitation using Meterpreter - 4047
 * 3.5 Image Steganography using OpenStego - 4097
 * 4.1 View, Enable, and Clear Audit Policies using Auditpol - 4125
