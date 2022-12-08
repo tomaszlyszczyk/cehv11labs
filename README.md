@@ -1,6 +1,6 @@
-# CEHv11 Labs 
+# CEHv12 Labs 
 
-Curated list of CEHv11 labs.
+Curated list of CEHv12 labs.
 
 ## Credentials
 * Windows 10 - Admin/Pa$$w0rd
@@ -12,6 +12,7 @@ Curated list of CEHv11 labs.
 
 ## Module 02 - Footprinting and Reconnaissance
 
+* 3.2 Gather Personal Information from Various Social Networking Sites using Sherlock
 * 6.1 Perform Whois Lookup using DomainTools
 * 7.2 Perform Reverse DNS Lookup using Reverse IP Domain Check and DNSRecon (3521)
 * 9.1 Footprinting a Target using Recon-ng - 3539 (up to step 44 only)
@@ -19,13 +20,17 @@ Curated list of CEHv11 labs.
 ## Module 03 - Scanning Networks
 
 * 1.1 Perform Host Discovery using Nmap - 3615
-* 2.4 Explore Various Network Scanning Techniques using Hping3 - 3653
+* 2.5 Explore Various Network Scanning Techniques using Hping3 - 3653
 
 ## Module 04 - Enumeration
 
+* 1.3 Perform NetBIOS Enumeration using an NSE Script
+* 2.3 Perform SNMP Enumeration using SnmpWalk 
+* 3.1 Perform LDAP Enumeration using Active Directory Explorer (AD Explorer)
+* 4.1 Perform NFS Enumeration using RPCScan and SuperEnum
 * 5.1 Perform DNS Enumeration using Zone Transfer - 3790 **(repeat for zonetransfer.me)**
-* 6.2 Perform RPC, SMB, and FTP Enumeration using Nmap - 3805
-* 7.3 Enumerate Information from Windows and Samba Hosts using Enum4linux - 3830
+* 7.2 Perform RPC, SMB, and FTP Enumeration using Nmap - 3805
+* 8.3 Enumerate Information from Windows and Samba Hosts using Enum4linux - 3830
 
 ## Module 05 - Vulnerability Analysis
 
@@ -37,6 +42,7 @@ Curated list of CEHv11 labs.
 
 * 1.5 Gain Access to a Remote System using Armitage - 3967 (create 'share' folder manually before step 19)
 * 2.2 Hack a Windows Machine using Metasploit and Perform Post-Exploitation using Meterpreter - 4047
+* 2.6 Escalate Privileges to Gather Hashdump using Mimikatz
 * 3.5 Image Steganography using OpenStego - 4097
 * 4.1 View, Enable, and Clear Audit Policies using Auditpol - 4125
 * 4.3 Clear Linux Machine Logs using the BASH Shell - 4131
@@ -44,11 +50,12 @@ Curated list of CEHv11 labs.
 ## Module 07 - Malware Threats
 
 * 1.1 Gain Control over a Victim Machine using the njRAT RAT Trojan - 4146
-* 3.1 Perform Online Malware Scanning using VirusTotal - 4199
+* 3.8 Perform Malware Disassembly using Ghidra 
 * 4.1 Perform Port Monitoring using TCPView and CurrPorts - 4232
 
 ## Module 08 - Sniffing
 
+* 1.2 Perform a DHCP Starvation Attack using Yersinia 
 * 1.4 Perform an Man-in-the-Middle (MITM) Attack using Cain & Abel - 4329
 * 2.1 Perform Password Sniffing using Wireshark - 4355 (install Wireshark from Tools - Module 3 Banner Grabbing)
 
@@ -66,6 +73,7 @@ Curated list of CEHv11 labs.
 ## Module 11 - Session Hijacking
 
 * 1.1 Hijack a Session using Zed Attack Proxy (ZAP) - 4556
+* 2.1 Detect Session Hijacking using Wireshark 
 
 ## Module 12 - Evading IDS, Firewalls, and Honeypots
 
@@ -83,8 +91,9 @@ Curated list of CEHv11 labs.
 * 1.1 Perform Web Application Reconnaissance - 4697
 * 1.5 Identify Web Server Directories - 4717
 * 2.1 Perform a Brute-force Attack using Burp Suite - 4734
-* 2.3 Exploit Parameter Tampering and XSS Vulnerabilities in Web Applications - 4762
-* 2.6 Exploit a Remote Command Execution Vulnerability to Compromise a Target Web Server - 4791
+* 2.4 Exploit Parameter Tampering and XSS Vulnerabilities in Web Applications - 4762
+* 2.7 Exploit a Remote Command Execution Vulnerability to Compromise a Target Web Server - 4791
+* 2.9 Gain Access by exploiting Log4j Vulnerability 
 
 ## Module 15 - SQL Injection
 
@@ -105,7 +114,9 @@ Curated list of CEHv11 labs.
 
 ## Module 19 - Cloud Computing
 
-* No labs
+* https://github.com/ine-labs/AzureGoat
+* https://github.com/ine-labs/AWSGoat
+* https://github.com/ine-labs/GCPGoat
 
 ## Module 20 - Cryptography
 
