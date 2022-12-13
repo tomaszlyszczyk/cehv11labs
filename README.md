@@ -63,7 +63,7 @@ Curated list of CEHv12 labs.
 
 * 1.1 Sniff Users’ Credentials using the Social-Engineer Toolkit (SET)
   * clone http version of the site, not https
-  * skip creating phising email, visit fake site directly
+  * skip creating phising email (steps 16 - 24), visit fake site directly
 * 0.0 Give the trainer your card number, expiration date and CVV code
 
 ## Module 10 - Denial-of-Service
