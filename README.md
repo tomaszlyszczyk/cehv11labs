@@ -15,7 +15,7 @@ Curated list of CEHv12 labs.
 * 3.2 Gather Personal Information from Various Social Networking Sites using Sherlock
 * 6.1 Perform Whois Lookup using DomainTools
 * 7.2 Perform Reverse DNS Lookup using Reverse IP Domain Check and DNSRecon
-* 9.1 Footprinting a Target using Recon-ng - 3539 (up to step 44 only)
+* 9.1 Footprinting a Target using Recon-ng (up to step 44 only)
 
 ## Module 03 - Scanning Networks
 
@@ -35,7 +35,7 @@ Curated list of CEHv12 labs.
 ## Module 05 - Vulnerability Analysis
 
 * 1.2 Perform Vulnerability Research in Common Vulnerabilities and Exposures (CVE)
-* 2.2 Perform Vulnerability Scanning using Nessus - 3871 **(TAKES A LOT OF TIME, DO AFTER CLASS)**
+* 2.2 Perform Vulnerability Scanning using Nessus **(TAKES A LOT OF TIME, DO AFTER CLASS)**
 * 2.4 Perform Web Servers and Applications Vulnerability Scanning using CGI Scanner Nikto
 
 ## Module 06 - System Hacking
