@@ -79,7 +79,7 @@ Curated list of CEHv12 labs.
 
 * 1.1 Detect Intrusions using Snort
 * 2.1 Bypass Windows Firewall using Nmap Evasion Techniques
-* 2.2 Bypass Firewall Rules using HTTP/FTP Tunneling
+* 2.2 Bypass Firewall Rules using HTTP/FTP Tunneling (do sprawdzenia)
 
 ## Module 13 - Hacking Web Servers
 
