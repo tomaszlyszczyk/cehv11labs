@@ -89,7 +89,7 @@ Curated list of CEHv12 labs.
 ## Module 14 - Hacking Web Applications
 
 * 1.1 Perform Web Application Reconnaissance
-* 1.5 Identify Web Server Directories
+* 1.5 Identify Web Server Directories using Various Tools
 * 2.1 Perform a Brute-force Attack using Burp Suite
 * 2.4 Exploit Parameter Tampering and XSS Vulnerabilities in Web Applications
 * 2.7 Exploit a Remote Command Execution Vulnerability to Compromise a Target Web Server
