@@ -13,7 +13,7 @@ Curated list of CEHv12 labs.
 ## Module 02 - Footprinting and Reconnaissance
 
 * 3.2 Gather Personal Information from Various Social Networking Sites using Sherlock **(update sherlock to latest version first)**
-* 6.1 Perform Whois Lookup using DomainTools
+* 6.1 Perform Whois Lookup using DomainTools **(do on your own host, not in the lab environment)**
 * 7.2 Perform Reverse DNS Lookup using Reverse IP Domain Check and DNSRecon
 * 9.1 Footprinting a Target using Recon-ng (up to step 44 only)
 
