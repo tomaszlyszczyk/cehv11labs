@@ -27,7 +27,7 @@ Curated list of CEHv12 labs.
 * 1.3 Perform NetBIOS Enumeration using an NSE Script
 * 2.3 Perform SNMP Enumeration using SnmpWalk 
 * 3.1 Perform LDAP Enumeration using Active Directory Explorer (AD Explorer)
-* 4.1 Perform NFS Enumeration using RPCScan and SuperEnum
+* 4.1 Perform NFS Enumeration using RPCScan and SuperEnum **(skip SuperEnum, do only RPCScan)**
 * 5.1 Perform DNS Enumeration using Zone Transfer **(repeat step 10 for zonetransfer.me)**
 * 7.2 Perform RPC, SMB, and FTP Enumeration using Nmap
 * 8.3 Enumerate Information from Windows and Samba Hosts using Enum4linux
