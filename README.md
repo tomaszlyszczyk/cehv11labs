@@ -61,7 +61,7 @@ Curated list of CEHv12 labs.
 
 ## Module 09 - Social Engineering
 
-* 1.1 Sniff Users’ Credentials using the Social-Engineer Toolkit (SET)
+* 1.1 Sniff Credentials using the Social-Engineer Toolkit (SET)
   * clone http version of the site, not https
   * skip creating phising email (steps 16 - 24), visit fake site directly
 * 0.0 Give the trainer your card number, expiration date and CVV code
