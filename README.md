@@ -43,6 +43,7 @@ Curated list of CEHv12 labs.
 * 1.5 Gain Access to a Remote System using Armitage **(create 'share' folder manually before step 19)**
 * 2.2 Hack a Windows Machine using Metasploit and Perform Post-Exploitation using Meterpreter
 * 2.6 Escalate Privileges to Gather Hashdump using Mimikatz
+    * before the exercise, go to **Local Security Policy -> Account Policies -> Account Lockout Policy** and set threshold to 0 to disable account lockout
 * 3.5 Image Steganography using OpenStego
 * 4.1 View, Enable, and Clear Audit Policies using Auditpol
 * 4.3 Clear Linux Machine Logs using the BASH Shell
