@@ -94,7 +94,8 @@ Curated list of CEHv12 labs.
 * 2.1 Perform a Brute-force Attack using Burp Suite
 * 2.4 Exploit Parameter Tampering and XSS Vulnerabilities in Web Applications
 * 2.7 Exploit a Remote Command Execution Vulnerability to Compromise a Target Web Server
-* 2.9 Gain Access by exploiting Log4j Vulnerability 
+* 2.9 Gain Access by exploiting Log4j Vulnerability
+  * On Parrot, go back to **no proxy** settings in Firefox before connecting to the web app (step 13)
 
 ## Module 15 - SQL Injection
 
